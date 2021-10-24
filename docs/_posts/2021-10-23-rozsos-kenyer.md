@@ -5,25 +5,28 @@ title:  "Rozsos kenyer"
 
 # Rozsos kenyer
 
-## Osszetetel
+## Hozzavalok
 
-- 480g feher kenyerliszt (80%) (Garat Kiralybuzaliszt volt otthon)
-- 60g teljes kiorlesu buzaliszt (10%) (Garat Kiralybuzalist volt otthon)
-- 60g teljes kiorlesu rozsliszt (10%) (Nagyi Titka)
-- 120g kovasz (20%) (100% hidr, teljes kiorlesu rozskovasz a Nagyi Titka lisztbol)
+- 480g feher kenyerliszt (80%)
+- 60g teljes kiorlesu buzaliszt (10%)
+- 60g teljes kiorlesu rozsliszt (10%)
+- 120g teljes kiorlesu rozskovasz (20%)
+    - 100% hidratacio
 - 420g viz (70%)
-- 12g so
+- 12g so (2%)
 
 Teljes hidratacio: ~73%
+
+Felhasznalt alapanyagok:
+- feher kenyerliszt: Garat Kiralybuzaliszt
+- teljes kiorlesu buzaliszt: Garat Kiralybuzaliszt
+- teljes kiorlesu rozsliszt: Nagyi Titka
+    - kovaszhoz is ez
+- so: Himalaya so
 
 ## Lepesek
 
 Timeline: 2021. oktober 20. (szerda) - 23. (szombat)
-
-Kb a Peklany modszere szerint csinaltam, de kisebb meretueket mint korabban szoktam.
-Most kb. 300g liszt jutna egy kenyerbe (korabban ez 400g szokott lenni), azzal a gondolattal,
-hogy a kisebb meretu kenyer jobban tud majd terfogatnovekedni a sutoben, mert jobban
-le tudom takarni a fedovel es begozolni igy a teret.
 
 1. szerda delutan kovasz kivesz hutobol melegiteni
 1. szerda este 9 korul kovaszt megetettem
@@ -81,9 +84,36 @@ le tudom takarni a fedovel es begozolni igy a teret.
     - masikat kivettem korabban, hogy kb 1.5 orat keljen mire a sutobe kerul,
       csak h osszehasonlitsam oket
 
-Meretek:
-1. 464g
-2. ?
+## Eredmeny
+
+### Elso kenyer
+
+Asszem 464g
+
+![Elso kenyer kozepe]({{site.baseurl}}/images/2021-10-23-rozsos-kenyer/elso_kozepe.jpg)
+
+![Elso kenyer megvagva]({{site.baseurl}}/images/2021-10-23-rozsos-kenyer/elso_megvagva.jpg)
+
+Kostolva:
+- finom puha
+- nem erzodik rajta a kovasz, nincs egyaltalan savanykas ize -> tovabb kellett volna erlelni?
+- apam megdicserte a kullemet es az izet is, kerdezte is hogyan lett ilyen csikos, mert nagyon szabalyosnak tunik
+
+### Masodik kenyer
+
+TODO
+
+## Elozetes meggondolasok
+
+Kb a Peklany modszere szerint csinaltam, de kisebb meretueket mint korabban szoktam.
+Most kb. 300g liszt jutna egy kenyerbe (korabban ez 400g szokott lenni), azzal a gondolattal,
+hogy a kisebb meretu kenyer jobban tud majd terfogatnovekedni a sutoben, mert jobban
+le tudom takarni a fedovel es begozolni igy a teret.
+
+Ha lett volna ra ido, akkor valszeg hagyom meg bulk fermentalni mint a foodgeek receptben.
+
+So csak 2%, hogy csokkentsuk kicsit a sobevitelt, a nemet receptkonyv 400g liszthez rakna 12g sot.
+Ha a teljes lisztmennyisegre vetitjuk a sot (a kovasz lisztjet beleszamitva), akkor 1.82%.
 
 ## Eszrevetelek
 
@@ -94,14 +124,3 @@ Meretek:
 - latszik rajtuk, h pici kenyerek, en elozetesen kb 520-550g-ra szamitottam, a 464g eleg kicsi,
   bar az igaz, h a kovasz is 20% volt 25% helyett, szoval a szamitasaim is rosszak lehettek
 - todo: belzetben van kulonbseg a ketto kozott?
-- az elsot kostolva:
-    - finom puha
-    - nem erzodik rajta a kovasz, nincs egyaltalan savanykas ize -> tovabb kellett volna erlelni?
-    - apam megdicserte a kullemet es az izet is, kerdezte is hogyan lett ilyen csikos,
-      mert nagyon szabalyosnak tunik
-
-## Kepek
-
-![Elso kenyer kozepe]({{site.baseurl}}/images/2021-10-23-rozsos-kenyer/elso_kozepe.jpg)
-
-![Elso kenyer megvagva]({{site.baseurl}}/images/2021-10-23-rozsos-kenyer/elso_megvagva.jpg)
