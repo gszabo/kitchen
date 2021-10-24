@@ -88,7 +88,11 @@ Timeline: 2021. oktober 20. (szerda) - 23. (szombat)
 
 ### Elso kenyer
 
-Asszem 464g
+- tomeg: 464g (emlekezetbol)
+- szelesseg: 13cm (kozepe utan 3-4 szelettel merve)
+- magassag: 6cm (kozepe utan 3-4 szelettel merve)
+- hosszusag: n/a
+
 
 ![Elso kenyer kozepe]({{site.baseurl}}/images/2021-10-23-rozsos-kenyer/elso_kozepe.jpg)
 
