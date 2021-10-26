@@ -105,7 +105,20 @@ Kostolva:
 
 ### Masodik kenyer
 
-TODO
+- tomeg: 435g
+- szelesseg: 11.5cm
+- magassag: 6cm
+- hosszusag: 25cm
+
+![Masodik kenyer egeszben]({{site.baseurl}}/images/2021-10-23-rozsos-kenyer/masodik_egesz.jpg)
+
+![Masodik kenyer kozepe]({{site.baseurl}}/images/2021-10-23-rozsos-kenyer/masodik_kozepe.jpg)
+
+![Masodik kenyer megvagva]({{site.baseurl}}/images/2021-10-23-rozsos-kenyer/masodik_megvagva.jpg)
+
+Kostolva:
+- hasonloan nem erzodik a kovasz
+- szarazabbnak erzem, mint az elsot, de egy nappal kesobb kostoltam
 
 ## Elozetes meggondolasok
 
@@ -127,4 +140,8 @@ Ha a teljes lisztmennyisegre vetitjuk a sot (a kovasz lisztjet beleszamitva), ak
 - picit laposnak erzem oket, sztem lehetne nagyobb fuggoleges terfogatnovekedes
 - latszik rajtuk, h pici kenyerek, en elozetesen kb 520-550g-ra szamitottam, a 464g eleg kicsi,
   bar az igaz, h a kovasz is 20% volt 25% helyett, szoval a szamitasaim is rosszak lehettek
-- todo: belzetben van kulonbseg a ketto kozott?
+- a masodik, amelyik pulton is kelt sutes elott, nem lett se magasabb, se szelesebb,
+  hosszusagot nem tudok osszehasonlitani, mert az elsorol nincs adat. a meretbeli elteres
+  a formazasbol / szakajtok kozotti kulonbsegbol is adodhat
+- belzetben kulonbseget nem tudok megfogalmazni, mashogy vannak a nagy lyukak, de egyiket
+  se mondanam nyitottabbnak a masiknal
